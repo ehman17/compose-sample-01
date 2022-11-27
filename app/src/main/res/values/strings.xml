@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">compose-list-sample</string>
+    <string name="sample_list">Sample List</string>
+</resources>
